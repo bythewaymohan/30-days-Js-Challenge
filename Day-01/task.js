@@ -26,8 +26,8 @@
  • Task 4: Create variables of different data types (number, string, boolean, object, array) and log each variable's type using the typeof operator.
 
 let numVariable = 143;
-let strVariable = 'Chai Aur Code'
-let boolVariable = 0
+let strVariable = 'Chai Aur Code';
+let boolVariable = 0;
 let ObjVariable = {
     name: "chai aur code",
     email: "chaiaurcode@gmail.com",
