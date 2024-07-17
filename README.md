@@ -2,6 +2,7 @@
 This challenge is very useful for us, Because of this challenge all JavaScript content will be revise and will get more command over JavaScript.
 All challenge codes are available in this repository.
 
+
 ### Day-01 Tasks
 - Activity 1: Variable Declaration
   - Task 1: Declare a variable using var, assign it a number, and log the value to the console.
@@ -14,6 +15,7 @@ All challenge codes are available in this repository.
   - Task 5: Declare a variable using let , assign it an initial value, reassign a new value, and log both values to
 - Activity 5: Understanding const
   - Task 6: Try reassigning a variable declared with const and observe the error.
+
 
 ### Day-02 Tasks
 - Activity 1: Arithmetic Operations
@@ -36,6 +38,7 @@ All challenge codes are available in this repository.
 - Activity 5: Ternary Operator
   - Task 14: Write a program that uses the ternary operator to check if a number is positive or negative and log the result to the console.
 
+
  ### Day-03 Tasks
 - Activity 1: If-Else Statements
   - Task 1: Write a program to check if a number is positive, negative, or zero, and log the result to the console.
@@ -49,6 +52,7 @@ All challenge codes are available in this repository.
   - Task 6: Write a program that uses the ternary operator to check if a number is even or odd and log the result to the console.
 - Activity 5: Combining Conditions 
   - Task 7: Write a program to check if a year is a leap year using multiple conditions (divisible by 4, but not 100 unless also divisible by 400) and log the result to the console.
+
  
  ### Day-04 Tasks
 - Activity 1: For Loop
@@ -65,3 +69,22 @@ All challenge codes are available in this repository.
 - Activity 5: Loop Control Statements 
     - Task 8: Write a program to print numbers from 1 to 10, but skip the number 5 using the continue statement.
     - Task 9: Write a program to print numbers from 1 to 10, but stop the loop when the number is 7 using the break statement.
+
+
+ ### Day-05 Tasks
+- Activity 1: Function Declaration
+  - Task 1: Write a function to check if a number is even or odd and log the result to the console.
+  - Task 2: Write a function to calculate the square of a number and return the result.
+- Activity 2: Function Expression
+  - Task 3: Write a function expression to find the maximum of two numbers and log the result to the console.
+  - Task 4: Write a function expression to concatenate two strings and return the result.
+- Activity 3: Arrow Functions 
+  - Task 5: Write an arrow function to calculate the sum of two numbers and return the result.
+  - Task 6: Write an arrow function to check if a string contains a specific character and return a boolean value.
+- Activity 4: Function Parameters and Default Values 
+  - Task 7: Write a function that takes two parameters and returns their product. Provide a default value for the second parameter.
+  - Task 8: Write a function that takes a person's name and age and returns a greeting message. Provide a default value for the age.
+- Activity 5: Higher-Order Functions
+  - Task 9: Write a higher-order function that takes a function and a number, and calls the function that many times.
+  - Task 10: Write a higher-order function that takes two functions and a value, applies the first function to the value, and then applies the second function to the result.
+ 
