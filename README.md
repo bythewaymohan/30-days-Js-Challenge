@@ -110,7 +110,7 @@ All challenge codes are available in this repository.
   - Task 13: Access and log a specific element from the two-dimensional array.
 
 
- ### Day-07 Objects
+### Day-07 Objects
 - Activity 1: Object Creation and Access
   - Task 1: Create an object representing a book with properties like title, author, and year, and log the object to the console.
   - Task 2: Access and log the title and author properties of the book object.
@@ -126,7 +126,8 @@ All challenge codes are available in this repository.
   - Task 8: Use a for... in loop to iterate over the properties of the book object and log each property and its value.
   - Task 9: Use Object. keys and object. values methods to log all the keys and values of the book object.
  
-   ### Day-08 ES6+Feature
+
+### Day-08 ES6+Feature
 - Activity 1: Template Literals
   - Task 1: Use template literals to create a string that includes variables for a person's name and age, and log the string to the console.
   - Task 2: Create a multi-line string using template literals and log it to the console.
@@ -141,3 +142,21 @@ All challenge codes are available in this repository.
 - Activity 5: Enhanced Object Literals
   - Task 8: Use enhanced object literals to create an object with methods and properties, and log the object to the console.
   - Task 9: Create an object with computed property names based on variables and log the object to the console.
+
+
+### Day-09 DOM-Manipulation
+- Activity 1: Activity 1: Selecting and Manipulating Elements
+  - Task 1: Select an HTML element by its ID and change its text content.
+  - Task 2: Select an HTML element by its class and change its background color.
+- Activity 2: Creating and Appending Elements
+  - Task 3: Create a new div element with some text content and append it to the body.
+  - Task 4: Create a new li element and add it to an existing ul list.
+- Activity 3: Removing Elements
+  - Task 5: Select an HTML element and remove it from the DOM.
+  - Task 6: Remove the last child of a specific HTML element.
+- Activity 4: Modifying Attributes and Classes
+  - Task 7: Select an HTML element and change one of its attributes (e.g., src of an img tag).
+  - Task 8: Add and remove a CSS class to/from an HTML element.function with and without the second parameter.
+- Activity 5: Event Handling
+  - Task 9: Add a click event listener to a button that changes the text content of a paragraph.
+  - Task 10: Add a mouseover event listener to an element that changes its border color.
