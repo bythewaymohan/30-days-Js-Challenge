@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DOM Manipulation</title>
+    <style>
+      .removeCssClass {
+        padding: 12px;
+        background-color: aquamarine;
+      }
+      .addCss {
+        padding: 13px;
+        background-color: yellow;
+      }
+      .changeBorder {
+        border: 2px solid black;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <p id="text">Hi, I am original content text</p>
+    </div>
+    <h1
+      style="width: 100%; height: 100%; border: 1px solid #000"
+      class="Change-color"
+    >
+      hello Change my bg color
+    </h1>
+
+    <div class="list">
+      <ul class="myul">
+        <li>List 1</li>
+        <li>List 2</li>
+        <li>List 3</li>
+      </ul>
+    </div>
+
+    <div class="removeElement">
+      <h1>remove the h2 element</h1>
+      <h2 class="removeHeading">Remove me</h2>
+    </div>
+
+    <div>
+      <ul class="myChild">
+        <li>First Child</li>
+        <li>Second Child</li>
+        <li>Third Child</li>
+      </ul>
+    </div>
+    <img
+      class="changeImg"
+      src="https://images.pexels.com/photos/26971939/pexels-photo-26971939/free-photo-of-boy-in-shirt-standing-close-to-elephant.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+      alt=""
+      height="200"
+      width="200"
+    />
+
+    <div id="addCssClass" class="">hello here i will add css class</div>
+    <div class="removeCssClass">Hello Here i will remove css class</div>
+
+    <div class="changeContent">
+      <p id="myParagraph">This is the original text.</p>
+      <button id="changeTextButton">Change Text</button>
+    </div>
+
+    <h4 class="changeBorder">change border on Mouse Hover</h4>
+
+    <script src="DOM-Manipulation.js"></script>
+  </body>
+</html>
